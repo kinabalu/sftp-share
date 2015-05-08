@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Knut Ahlers <knut@ahlers.me>
+MAINTAINER Andrew Lombardi <andrew@mysticcoders.com>
 
 ENV USER share
 ENV PASS changeme
